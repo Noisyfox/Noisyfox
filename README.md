@@ -16,3 +16,9 @@ You can click the Preview link to take a look at your changes.
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Noisyfox&show_icons=true&theme=default&count_private=true" alt="Noisyfox's github stats" align="center"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Noisyfox&layout=compact" alt="Top Langs" align="center"/>
 </p>
+
+If you like my work, feel free to by me a coffe:
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/noisyfox)
+
+[<img width="200" src="https://pic1.afdiancdn.com/static/img/welcome/button-sponsorme.png" alt="afdian">](https://afdian.net/a/noisyfox)

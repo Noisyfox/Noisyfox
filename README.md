@@ -17,7 +17,7 @@ You can click the Preview link to take a look at your changes.
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Noisyfox&layout=compact" alt="Top Langs" align="center"/>
 </p>
 
-If you like my work, feel free to by me a coffe:
+If you like my work, feel free to by me a coffee:
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/noisyfox)
 
